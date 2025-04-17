@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Blog"</title>
+<style>
+    h2 {
+        text-align:center;
+        background-color:red;
+    }
+    h3{
+        text-align:center;
+        background-color:red;
+        font-size:1.5em;
+    }
+    h4 {
+        text-align:center;
+        background-color:red;
+        font-family:sans-serif;
+    }
+    p{
+        font-weight:bold;
+        font-style:italic;
+        background-color:green;
+    }
+    
+    }
+</style>
+    </head>
+    <body>
+        
+        <h1>Hassan's blog</h1>
+
+        <h3>Cod you future</h3>
+        <ul>
+            <li> <a href="#start">the start of the journy</a></li>
+            <li><a href="#fight">fight to keep pushing </a></li>
+            <li><a href="#end">End of the journy</a></li>
+        </ul>
+        
+        <h2 id="the start">the start of the journy</h2>
+        <h6> the day I decided</h6>
+        
+        <p>Something excited happened.<br>I felt that his carerr it's for me as I'm willing to have someting doesn't control my <strong>freedom</strong>.<br></p>
+        <p> I had my life I did triyed many things but i haven't felt that noun of these things is<em> for me</em>
+        </p>
+        <h3 id="fight">fight to keep pushing</h3>
+        <h5>I stopedd in between</h5>
+        <p>I come to a time and I stopped progresing on accomblashing the taskes went to different places everyting there wasing for me </p>
+        
+        <h4 id="end">End of the journy</h4>
+        <p>I kept pushing I kept fighting Im hopfely Im going to win this oppounity </p>
+    </body>
+</html>
